@@ -376,7 +376,7 @@ box-shadow: 10px 10px 12px 0px rgba(0,0,0,0.55);
 {   
     margin-top:80px;
      width: 100%;
-    height: 650px;   
+    height: 1200px;   
 background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 17%,#8c43ff 35%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(to bottom, #1e5799 0%,#2989d8 17%,#8c43ff 35%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }

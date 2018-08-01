@@ -381,7 +381,7 @@ background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 17%,#8c43ff 35%); /*
 background: linear-gradient(to bottom, #1e5799 0%,#2989d8 17%,#8c43ff 35%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
-@media screen and (min-width: 1170px)
+@media screen and (min-width: 1400px)
 {
 .gradbg
 {   

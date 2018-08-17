@@ -324,7 +324,7 @@ box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
     .skillbadges{
     text-align: center;
     display: inline-block;
-    margin-left:20%;
+    margin-left:22%;
     font-size: 13px;
     font-weight: 800;
     }
@@ -336,6 +336,55 @@ box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
     display: inline-block;   
     align-content: center;
     }
+    
+ .iconborder1
+{ padding: 10px;
+    -webkit-box-shadow: 4px -2px 5px 7px rgba(0,0,0,0.75);
+-moz-box-shadow: 4px -2px 5px 7px rgba(0,0,0,0.75);
+box-shadow: 4px -2px 5px 7px rgba(0,0,0,0.75);
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+}
+
+.iconborder
+{ padding: 10px;
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+   -webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+    margin-top:20px;
+}
+
+.iconborder2
+{ padding: 10px;
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+    -webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+    margin-top:20px;
+}
+
+.iconborder3
+{ padding: 10px;
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+   -webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+    margin-top:20px;
+}
+
+.iconborder4
+{ padding: 10px;
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+    -webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.75);
+    margin-top:20px;
+}
     
 }
 

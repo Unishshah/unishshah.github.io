@@ -310,10 +310,21 @@ box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
 
 @media screen and (max-width: 775px)
 {   
+     .academic1{
+        border: 2px solid transprent;
+    background: -webkit-linear-gradient(left, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #f5f7fa 1%,#c3cfe2 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7*/
+    padding: 10px;
+        margin-top: 10px;
+   -webkit-box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
+        -moz-box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
+box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
+    }
+    
     .skillbadges{
     text-align: center;
     display: inline-block;
-    margin-left:10%;
+    margin-left:20%;
     font-size: 13px;
     font-weight: 800;
     }
@@ -323,7 +334,6 @@ box-shadow: 4px -4px 5px 6px rgba(0,0,0,0.75);
     width: 50px;
     height: 100px;
     display: inline-block;   
-    margin-left:10%;
     align-content: center;
     }
     
@@ -367,9 +377,6 @@ box-shadow: 10px 10px 12px 0px rgba(0,0,0,0.55);
 {   
     font-size: 16px;
     padding-bottom:  50px;
-     
-
-     
 }
 
 .gradbg
